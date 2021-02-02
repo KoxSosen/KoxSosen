@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoxSosen&show_icons=true&theme=dark)
-
 ![](https://komarev.com/ghpvc/?username=KoxSosen&color=yellowgreen)
 
 <!--
